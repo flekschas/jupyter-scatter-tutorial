@@ -1,0 +1,17 @@
+[build-system]
+requires = ["hatchling", "hatch-requirements-txt"]
+build-backend = "hatchling.build"
+
+[project]
+name = "jupyter-scatter-tutorial"
+version = "0.0.0"
+dynamic = ["dependencies"]
+
+[tool.hatch.metadata.hooks.requirements_txt]
+files = ["requirements.txt"]
+
+[tool.hatch.envs.book]
+dependencies = ["jupyter-book>=0.15.1,<0.16.0"]
+
+[tool.hatch.envs.book.scripts]
+build = "jupyter-book build ."

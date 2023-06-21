@@ -1,0 +1,7 @@
+title: jupyter-scatter tutorial
+author: Friz Lekschas & Trevor Manz
+# logo: 'images/jupyter-scatter-logo.png'
+html:
+  favicon: "images/favicon.png"
+repository:
+    url: "https://github.com/flekschas/jupyter-scatter-tutorial"

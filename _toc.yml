@@ -1,0 +1,5 @@
+format: jb-article
+root: README
+sections:
+- file: notebooks/Index
+- file: notebooks/01-Getting-Started
