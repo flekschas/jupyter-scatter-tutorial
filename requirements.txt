@@ -1,3 +1,4 @@
 jupyter-scatter>=0.12.4,<0.13.0
 jupyterlab>=3.0.0
 pyarrow
+anywidget
