@@ -1,0 +1,247 @@
+{
+  "editable": true,
+  "trackSourceServers": [
+    "/api/v1",
+    "http://higlass.io/api/v1"
+  ],
+  "exportViewUrl": "/api/v1/viewconfs",
+  "views": [
+    {
+      "initialXDomain": [
+        1303613181.7026093,
+        1499110597.3029733
+      ],
+      "initialYDomain": [
+        -494540974.4116329,
+        -411329253.92532414
+      ],
+      "tracks": {
+        "top": [
+          {
+            "type": "chromosome-labels",
+            "uid": "UmEHCkmIReGQ6pUm_x8R8g",
+            "tilesetUid": "ZpZ8c5JJRUS1J7ZkofcUrg",
+            "server": "https://resgen.io/api/v1",
+            "options": {
+              "color": "#808080",
+              "stroke": "#ffffff",
+              "fontSize": 12,
+              "fontIsLeftAligned": false,
+              "showMousePosition": false,
+              "mousePositionColor": "#000000"
+            },
+            "height": 30
+          },
+          {
+            "type": "horizontal-gene-annotations",
+            "uid": "IUq7z8ZyQ12HeOvBqSJMNA",
+            "tilesetUid": "M9A9klpwTci5Vf4bHZ864g",
+            "server": "https://resgen.io/api/v1",
+            "options": {
+              "fontSize": 10,
+              "labelColor": "black",
+              "labelBackgroundColor": "#ffffff",
+              "labelPosition": "hidden",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "minHeight": 24,
+              "plusStrandColor": "blue",
+              "minusStrandColor": "red",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "showMousePosition": false,
+              "mousePositionColor": "#000000",
+              "geneAnnotationHeight": 16,
+              "geneLabelPosition": "outside",
+              "geneStrandSpacing": 4,
+              "name": "Gene Annotations (hg38)"
+            },
+            "height": 30
+          },
+          {
+            "type": "bar",
+            "uid": "ZCWRerBdT2G4zNyhPUXxyA",
+            "tilesetUid": "H_H8wZENRd2TiMghw70Afg",
+            "server": "https://resgen.io/api/v1",
+            "options": {
+              "labelColor": "black",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelBackgroundColor": "white",
+              "labelShowResolution": false,
+              "labelShowAssembly": true,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "lineStrokeColor": "blue",
+              "lineStrokeWidth": 1,
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "showMousePosition": false,
+              "minHeight": 20,
+              "mousePositionColor": "#000000",
+              "showTooltip": false,
+              "name": "RNA.H1_HB.bw"
+            },
+            "height": 30
+          },
+          {
+            "type": "bar",
+            "uid": "MsACLsAgTfC_HInQ9TNP_Q",
+            "tilesetUid": "Ra460tcpS4WduGeFPj9zIA",
+            "server": "https://resgen.io/api/v1",
+            "options": {
+              "labelColor": "black",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelBackgroundColor": "white",
+              "labelShowResolution": false,
+              "labelShowAssembly": true,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "lineStrokeColor": "blue",
+              "lineStrokeWidth": 1,
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "showMousePosition": false,
+              "minHeight": 20,
+              "mousePositionColor": "#000000",
+              "showTooltip": false,
+              "name": "RNA.H1_ESC.bw"
+            },
+            "height": 30
+          },
+          {
+            "type": "bar",
+            "uid": "ZNdZh4vwRUii-bt944DM1Q",
+            "tilesetUid": "Bv0dddZhSQ29gG1X2mB2uA",
+            "server": "https://resgen.io/api/v1",
+            "options": {
+              "labelColor": "black",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelBackgroundColor": "white",
+              "labelShowResolution": false,
+              "labelShowAssembly": true,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "lineStrokeColor": "blue",
+              "lineStrokeWidth": 1,
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "showMousePosition": false,
+              "minHeight": 20,
+              "mousePositionColor": "#000000",
+              "showTooltip": false,
+              "name": "RNA.H1_DE.bw"
+            },
+            "height": 30
+          },
+          {
+            "type": "bar",
+            "uid": "Dvb6QKE7S6eu3CFhN0RMCA",
+            "tilesetUid": "UnY7QgKZTtqYSEsWTJKUqA",
+            "server": "https://resgen.io/api/v1",
+            "options": {
+              "labelColor": "black",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelBackgroundColor": "white",
+              "labelShowResolution": false,
+              "labelShowAssembly": true,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "lineStrokeColor": "blue",
+              "lineStrokeWidth": 1,
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "showMousePosition": false,
+              "minHeight": 20,
+              "mousePositionColor": "#000000",
+              "showTooltip": false,
+              "name": "RNA.H1_iHEP.bw"
+            },
+            "height": 30
+          },
+          {
+            "type": "bar",
+            "uid": "HJ14yf1mS6KFu9OtYKhuxA",
+            "tilesetUid": "Oy8wQZqxQm2--hqU0IHB7g",
+            "server": "https://resgen.io/api/v1",
+            "options": {
+              "labelColor": "black",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelBackgroundColor": "white",
+              "labelShowResolution": false,
+              "labelShowAssembly": true,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "lineStrokeColor": "blue",
+              "lineStrokeWidth": 1,
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "showMousePosition": false,
+              "minHeight": 20,
+              "mousePositionColor": "#000000",
+              "showTooltip": false,
+              "name": "RNA.H1_mHEP.bw"
+            },
+            "height": 30
+          }
+        ],
+        "left": [],
+        "center": [],
+        "bottom": [],
+        "right": [],
+        "whole": [],
+        "gallery": []
+      },
+      "layout": {
+        "w": 12,
+        "h": 12,
+        "x": 0,
+        "y": 0
+      },
+      "uid": "OagL1N87QmySLAk_7e2afA"
+    }
+  ],
+  "zoomLocks": {
+    "locksByViewUid": {},
+    "locksDict": {}
+  },
+  "locationLocks": {
+    "locksByViewUid": {},
+    "locksDict": {}
+  },
+  "valueScaleLocks": {
+    "locksByViewUid": {},
+    "locksDict": {}
+  }
+}
