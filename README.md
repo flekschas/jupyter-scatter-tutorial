@@ -5,13 +5,13 @@
 
 :wave: Welcome! Here you will find the notebooks for the **jupyter-scatter** tutorial, presented at [SciPy 2023](https://cfp.scipy.org/2023/talk/AXSVZ3/). These notebooks offer an in-depth guide to interactive scatter plot visualizations using [`jupyter-scatter`](https://github.com/flekschas/jupyter-scatter). Specifically, the tutorial covers
 
-1. [How to get started with Jupyter Scatter and visualize medium to large-scale datasets as interactive scatter plots.](1-Getting-Started.ipynb)
-2. [How to compose and link/synchronize multiple scatter plots](2-Composing-Linking-Scatter-Plots.ipynb)
+1. [How to get started with Jupyter Scatter and visualize medium to large-scale datasets as interactive scatter plots.](notebooks/1-Getting-Started.ipynb)
+2. [How to compose and link/synchronize multiple scatter plots](notebooks/2-Composing-Linking-Scatter-Plots.ipynb)
 3. How to integrate Jupyter Scatter with other widgets to build bespoke interfaces for:
-   1. [Exploring LLM-based sentence embeddings](3-LLM-Sentence-Embedding.ipynb)
-   2. [Comparing multiple embedding method of the Fashion MNIST dataset](3-Fashion-MNIST.ipynb)
-   3. [Browsing genomic data with HiGlass and loci embeddings](3-Genomics.ipynb)
-   4. [Comparing a pair of single-cell embeddings by their label abundance differences](3-Comparative-Single-Cell-Embeddings.ipynb)
+   1. [Exploring LLM-based sentence embeddings](notebooks/3-LLM-Sentence-Embedding.ipynb)
+   2. [Comparing multiple embedding method of the Fashion MNIST dataset](notebooks/3-Fashion-MNIST.ipynb)
+   3. [Browsing genomic data with HiGlass and loci embeddings](notebooks/3-Genomics.ipynb)
+   4. [Comparing a pair of single-cell embeddings by their label abundance differences](notebooks/3-Comparative-Single-Cell-Embeddings.ipynb)
 
 > **Note**
 >
