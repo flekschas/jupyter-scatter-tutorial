@@ -1,6 +1,17 @@
 # Jupyter Scatter Tutorial
 
-![jupyter-scatter demo](https://user-images.githubusercontent.com/932103/223292112-c9ca18b9-bc6b-4c3b-94ac-984960e8f717.gif)
+<p float="center">
+   <a href="https://www.youtube.com/watch?v=RyC5ixtQG-Q">
+      <figure>
+        <img
+         width="auto"
+         height="320px"
+         src="https://github.com/flekschas/jupyter-scatter-tutorial/blob/2a125926ed49fad4f14888b43f95979b0d92ce96/teaser.gif"
+         alt="SciPy 2023 Talk"
+        >
+      </figure>
+   </a>
+</p>
 
 
 :wave: Welcome! Here you will find the notebooks for the **jupyter-scatter** tutorial, presented at [SciPy 2023](https://cfp.scipy.org/2023/talk/AXSVZ3/). These notebooks offer an in-depth guide to interactive scatter plot visualizations using [`jupyter-scatter`](https://github.com/flekschas/jupyter-scatter). Specifically, the tutorial covers
