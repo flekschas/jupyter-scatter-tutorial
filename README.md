@@ -2,17 +2,14 @@
 
 <p float="center">
    <a href="https://www.youtube.com/watch?v=RyC5ixtQG-Q">
-      <figure>
         <img
          width="auto"
          height="320px"
          src="https://github.com/flekschas/jupyter-scatter-tutorial/blob/2a125926ed49fad4f14888b43f95979b0d92ce96/teaser.gif"
          alt="SciPy 2023 Talk"
         >
-      </figure>
    </a>
 </p>
-
 
 :wave: Welcome! Here you will find the notebooks for the **jupyter-scatter** tutorial, presented at [SciPy 2023](https://cfp.scipy.org/2023/talk/AXSVZ3/). These notebooks offer an in-depth guide to interactive scatter plot visualizations using [`jupyter-scatter`](https://github.com/flekschas/jupyter-scatter). Specifically, the tutorial covers
 
@@ -26,7 +23,7 @@
 
 > **Note**
 >
-> The accompanying [slides from my SciPy '23 talk are available at Speaker Deck](https://speakerdeck.com/flekschas/interactive-exploration-of-large-scale-datasets-with-jupyter-scatter).
+> You can find my [SciPy '23 talk on YouTube](https://www.youtube.com/watch?v=RyC5ixtQG-Q) and the accompanying [slides at Speaker Deck](https://speakerdeck.com/flekschas/interactive-exploration-of-large-scale-datasets-with-jupyter-scatter).
 
 ## Run the Tutorial
 
