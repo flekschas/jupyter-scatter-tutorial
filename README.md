@@ -11,7 +11,7 @@
    </a>
 </p>
 
-:wave: Welcome! Here you will find the notebooks for the **jupyter-scatter** tutorial, presented at [SciPy 2023](https://cfp.scipy.org/2023/talk/AXSVZ3/). These notebooks offer an in-depth guide to interactive scatter plot visualizations using [`jupyter-scatter`](https://github.com/flekschas/jupyter-scatter). Specifically, the tutorial covers
+:wave: Welcome! Here you will find the notebooks for the **Jupyter Scatter** tutorial, first presented at [SciPy 2023](https://cfp.scipy.org/2023/talk/AXSVZ3/). These notebooks offer an in-depth guide to interactive scatter plot visualizations using [`jupyter-scatter`](https://github.com/flekschas/jupyter-scatter). Specifically, the tutorial covers
 
 1. [How to get started with Jupyter Scatter and visualize medium to large-scale datasets as interactive scatter plots.](notebooks/1-Getting-Started.ipynb)
 2. [How to compose and link/synchronize multiple scatter plots](notebooks/2-Composing-Linking-Scatter-Plots.ipynb)
@@ -20,6 +20,11 @@
    2. [Comparing multiple embedding method of the Fashion MNIST dataset](notebooks/3-Fashion-MNIST.ipynb)
    3. [Browsing genomic data with HiGlass and loci embeddings](notebooks/3-Genomics.ipynb)
    4. [Comparing a pair of single-cell embeddings by their label abundance differences](notebooks/3-Comparative-Single-Cell-Embeddings.ipynb)
+4. How to use the tooltip feature, introduced in `v0.15.0`:
+   1. [Tooltip with text previews for the LLM-based sentence embeddings](notebooks/4-Tooltip-LLM-Sentence-Embedding.ipynb)
+   2. [Tooltip with image previews for the Fashion MNIST embedding](notebooks/4-Tooltip-Fashion-MNIST.ipynb)
+   3. [Tooltip for a single-cell embededding](notebooks/4-Tooltip-Single-Cell-Embeddings.ipynb)
+   4. [Tooltip with audio previews for Google's Magenta Nsynth dataset](notebooks/4-Tooltip-Google-Nsynth.ipynb)
 
 > **Note**
 >
