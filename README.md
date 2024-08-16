@@ -20,11 +20,13 @@
    2. [Comparing multiple embedding method of the Fashion MNIST dataset](notebooks/3-Fashion-MNIST.ipynb)
    3. [Browsing genomic data with HiGlass and loci embeddings](notebooks/3-Genomics.ipynb)
    4. [Comparing a pair of single-cell embeddings by their label abundance differences](notebooks/3-Comparative-Single-Cell-Embeddings.ipynb)
-4. How to use the tooltip feature, introduced in `v0.15.0`:
+4. How to use the tooltip feature, introduced in `v0.15.0` (Added after the SciPy 2023):
    1. [Tooltip with text previews for the LLM-based sentence embeddings](notebooks/4-Tooltip-LLM-Sentence-Embedding.ipynb)
    2. [Tooltip with image previews for the Fashion MNIST embedding](notebooks/4-Tooltip-Fashion-MNIST.ipynb)
    3. [Tooltip for a single-cell embededding](notebooks/4-Tooltip-Single-Cell-Embeddings.ipynb)
    4. [Tooltip with audio previews for Google's Magenta Nsynth dataset](notebooks/4-Tooltip-Google-Nsynth.ipynb)
+5. How to add features to Jupyter Scatter composition with other Jupyter Widgets (Added after the SciPy 2023):
+   1. [Search](notebooks/5-Search.ipynb)
 
 > **Note**
 >
