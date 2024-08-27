@@ -36,7 +36,10 @@
 
 #### Online
 
-If you have a Google/Gmail account, you can Run this tutorial from your browser using Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flekschas/jupyter-scatter-tutorial/blob/main/notebooks/Index.ipynb).
+If you have a Google/Gmail account, you can run this tutorial from your browser using Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flekschas/jupyter-scatter-tutorial/blob/main/notebooks/Index.ipynb).
+
+> [!IMPORTANT]
+> You need to manually install Jupyter Scatter when running the notebooks in Google Colab via `!pip install jupyter-scatter`. Make sure to **not** install `jscatter` as that is a different package.
 
 #### Locally
 
