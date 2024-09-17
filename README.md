@@ -25,8 +25,9 @@
    2. [Tooltip with image previews for the Fashion MNIST embedding](notebooks/4-Tooltip-Fashion-MNIST.ipynb)
    3. [Tooltip for a single-cell embededding](notebooks/4-Tooltip-Single-Cell-Embeddings.ipynb)
    4. [Tooltip with audio previews for Google's Magenta Nsynth dataset](notebooks/4-Tooltip-Google-Nsynth.ipynb)
-5. How to add features to Jupyter Scatter composition with other Jupyter Widgets (Added after the SciPy 2023):
+5. How to add features to Jupyter Scatter through composition with other Jupyter Widgets or other Python libraries (Added after the SciPy 2023):
    1. [Search](notebooks/5-Search.ipynb)
+   2. [Cluster Outlines and Contours](notebooks/5-Cluster-Outlines-Contours.ipynb)
 
 > **Note**
 >
