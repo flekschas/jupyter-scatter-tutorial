@@ -44,14 +44,8 @@ If you have a Google/Gmail account, you can run this tutorial from your browser 
 
 #### Locally
 
-To run the notebook locally we recommend setting up a custom environment using [hatch](https://github.com/pypa/hatch) as follows:
+To run the notebook locally we recommend using [uv](https://github.com/astral-sh/uv) as follows:
 
 ```sh
-hatch shell
-```
-
-Finally, you can now run the notebooks with:
-
-```sh
-jupyterlab
+uv run jupyter-lab
 ```

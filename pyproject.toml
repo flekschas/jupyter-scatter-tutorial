@@ -1,17 +1,30 @@
 [build-system]
-requires = ["hatchling", "hatch-requirements-txt"]
+requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
 name = "jupyter-scatter-tutorial"
 version = "0.0.0"
-dynamic = ["dependencies"]
-
-[tool.hatch.metadata.hooks.requirements_txt]
-files = ["requirements.txt"]
+requires-python = ">=3.9,<3.13"
+dependencies = [
+  "anywidget",
+  "bioframe",
+  "higlass",
+  "jupyter-scatter>=0.12.4",
+  "jupyterlab>=3.0.0",
+  "pyarrow",
+  "watchfiles",
+  "numpy>=2.0.0",
+  "seaborn",
+  "altair[all]",
+  "cev",
+]
 
 [tool.hatch.envs.book]
 dependencies = ["jupyter-book>=0.15.1,<0.16.0"]
+
+[tool.hatch.envs.default]
+python = "3.12"
 
 [tool.hatch.envs.book.scripts]
 build = "jupyter-book build ."
